@@ -321,3 +321,13 @@ while True:
     next_word = predict_next_word(words_input[0], words_input[1])
     print("Model predicts:", next_word)
 ```
+### Visualization:
+```
+Input: "I", "like"
+        ↓
+ [ Embedding layer ]
+        ↓
+ [ RNN (remembers sequence) ]
+        ↓
+ [ Linear layer → predicts "dogs" ]
+```
