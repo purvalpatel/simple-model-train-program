@@ -331,3 +331,8 @@ Input: "I", "like"
         ↓
  [ Linear layer → predicts "dogs" ]
 ```
+## Save model:
+
+Export-model.py
+
+The model is saved with : word2idx.pkl file.
