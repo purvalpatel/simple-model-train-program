@@ -212,6 +212,14 @@ while True:
     print("Model predicts:", next_word)
 ```
 ## Take data from file and provide interactive output:
+1. Create data.txt
+```
+i like dogs
+i like cats
+i love music
+```
+
+2. data_runn_data.py
 ```python
 import torch
 import torch.nn as nn
