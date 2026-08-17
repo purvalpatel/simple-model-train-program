@@ -1,4 +1,4 @@
-### List of all modesl available at:
+### List of all models available at:
 https://models.dev/
 
 ## What MLOps engineer Roles and responsibility
