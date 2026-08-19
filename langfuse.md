@@ -1111,3 +1111,7 @@ clean_messages.insert(0, {
     "content": final_prompt   # from Langfuse
 })
 ```
+
+## Setup with docker-compose
+
+https://langfuse.com/self-hosting/deployment/docker-compose
